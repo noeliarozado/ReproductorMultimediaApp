@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AppMultimedia</string>
+
+    <string-array name="canciones">
+        <item>LISTA DE CANCIONES</item>
+        <item>Canción 1</item>
+        <item>Canción 2</item>
+        <item>Canción 3</item>
+    </string-array>
+
+    <string-array name="videos">
+        <item>LISTA DE VÍDEOS</item>
+        <item>Edimburgo</item>
+        <item>Londres</item>
+        <item>Nueva York</item>
+    </string-array>
+
+</resources>
